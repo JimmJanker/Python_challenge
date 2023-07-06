@@ -1,0 +1,10 @@
+Voters:
+369712
+Charles Casper Stockham
+23.048480979789673%
+Diana DeGette
+73.81204829705284%
+Raymon Anthony Doane
+3.1392002423508027%
+The Winner is:
+Diana DeGette
